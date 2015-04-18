@@ -8,4 +8,8 @@ public class Calculator {
     public static float division(int a, int b){
         return a / (float)b;
     }
+    
+    public static int addition(int a, int b){
+        return a+b;
+    }
 }
