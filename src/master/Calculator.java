@@ -17,6 +17,10 @@ public class Calculator {
         return a - b;
     }
     
+    public static int power2(int a){
+        return a*a;
+    }
+    
     public static int power(int a, int b){
         if(b == 0)
             return 1;
